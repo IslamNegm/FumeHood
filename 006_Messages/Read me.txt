@@ -1,0 +1,20 @@
+SA Islam :
+
+Kindly find feedback for Warning Screens:
+-----------------------------------------
+We need to create warning message for :
+
+1- The UV lamp: when the uv lamp working hours exceed the life time the warning may be "You need to change the UV lamp, Kindly contact the supplier".
+
+2- The Filter : when the Filter working hours exceed the life time the warning may be "You need to change the Filter, Kindly contact the supplier".
+
+
+3- When user turn on the UV lamp and the door open we will display warning message like " Can't turn on UV lamp and the door is open, Close the door"
+
+
+4- When user turn on the UV lamp and the normal light open we will display warning message like " Can't turn on UV lamp and the Light is open, Close the light"
+
+
+5- when the limits switch for the machine broken we will dispaly "You need to change the limit switch, Kindly contact the supplier".
+
+6- 

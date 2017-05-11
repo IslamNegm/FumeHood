@@ -1,0 +1,14 @@
+SA Islam :
+
+Kindly find my feedback for main Screen:
+-----------------------------------------
+For main screen the customer didn't like the Violet color if we can use other one maybe blue.
+and we need more color with high construct, he like the black theme as it more clear.
+
+This mean we will need to generate new icons. 
+
+
+===== Done =====
+1. Black themed again
+2. Icons have been regenerated
+3. Violet color of the UV has been changed to blue

@@ -1,0 +1,8 @@
+SA Islam :
+
+Kindly find my feedback for UV Screen:
+-----------------------------------------
+For main screen we need:
+1- For Duty time change it to Min not hr.
+2- We need to add Working hours to be add under duty time.
+3- the back switch will shfit down.
